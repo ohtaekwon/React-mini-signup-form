@@ -1,0 +1,7 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<LogicalDesign class="oracle.dbtools.crest.model.design.logical.LogicalDesign" name="Logical" id="612B58A6-BDE4-EC3C-0A0A-677AA6BC4876" mainViewID="C52ECCF0-631C-0DB0-31C6-77265331B810">
+<createdBy>태권</createdBy>
+<createdTime>2021-02-17 05:22:01 UTC</createdTime>
+<ownerDesignName>CAFE_ERD</ownerDesignName>
+<shouldBeOpen>false</shouldBeOpen>
+</LogicalDesign>
